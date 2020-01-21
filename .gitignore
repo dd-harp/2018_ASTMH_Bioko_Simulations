@@ -1,0 +1,7 @@
+*.html
+*.pdf
+*.csv
+BI_maps/*
+BI_sim_setup_data/*
+Bioko_EIR_Surfaces/*
+
